@@ -7,11 +7,8 @@
  */
 package package2;
 
-import package1.P1son;
-import package1.P1test;
-
 /**
- * @author wangzhiguo
+ * @author wangzhiguoS
  *
  * @date 2019年3月23日
  */
