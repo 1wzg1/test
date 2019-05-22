@@ -13,6 +13,6 @@ package package1;
  */
 public class P1test {
    protected void p1method(){
-	   System.out.println("aaaaa");
+	   System.out.println("aaaaaa");
    } 
 }
